@@ -1,0 +1,18 @@
+<company>
+
+  <name>Respawn Entertainment, LLC</name>
+  <founded>2010</founded
+
+  <programer>
+    <name>Jon Devotion</name>
+    <salary>60000€/year</salary>
+    <notes>Lorem Ipsum.</notes>
+  </programer>
+  
+    <programer>
+    <name>Jon Longbow</name>
+    <salary>50000€/year</salary>
+    <notes>Lorem Ipsum.</notes>
+  </programer>
+  
+</company>
